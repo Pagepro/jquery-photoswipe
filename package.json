@@ -1,0 +1,25 @@
+{
+  "name": "jquery-photoswipe",
+  "version": "1.0.0",
+  "description": "jQuery implementation of PhotoSwipe gallery script.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pagepro/jquery-photoswipe.git"
+  },
+  "keywords": [
+    "photoswipe",
+    "lightbox",
+    "jquery",
+    "gallery"
+  ],
+  "author": "Chris Lojniewski <chris@pagepro.pl> (http://pagepro.pl)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pagepro/jquery.photoswipe/issues"
+  },
+  "homepage": "https://github.com/Pagepro/jquery.photoswipe#readme"
+}
