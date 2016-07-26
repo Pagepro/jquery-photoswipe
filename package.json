@@ -1,6 +1,6 @@
 {
   "name": "jquery-photoswipe",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "jQuery implementation of PhotoSwipe gallery script.",
   "main": "index.js",
   "scripts": {
